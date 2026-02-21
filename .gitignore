@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+output/
+tmp/
+.auth/
+.vscode/
+.omc/
+*.xlsx
